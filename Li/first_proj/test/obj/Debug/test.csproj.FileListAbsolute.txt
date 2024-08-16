@@ -1,0 +1,9 @@
+C:\__Students\Pande\first_proj\test\bin\Debug\test.exe.config
+C:\__Students\Pande\first_proj\test\bin\Debug\test.exe
+C:\__Students\Pande\first_proj\test\bin\Debug\test.pdb
+C:\__Students\Pande\first_proj\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\__Students\Pande\first_proj\test\obj\Debug\test.Properties.Resources.resources
+C:\__Students\Pande\first_proj\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\__Students\Pande\first_proj\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\__Students\Pande\first_proj\test\obj\Debug\test.exe
+C:\__Students\Pande\first_proj\test\obj\Debug\test.pdb
